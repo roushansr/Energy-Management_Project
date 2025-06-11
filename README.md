@@ -18,3 +18,9 @@ This project aims to:
 - Handling of Missing Timestamps
 - Converting the Unit
 - Identifying the outliers
+
+
+# Codebooks
+- dpp.ipynb = Data Preprocessing
+- merge.ipynb = Used for merging dpp and Price data(will be updated soon)
+- price_ts.ipynb = Time series for Price data
